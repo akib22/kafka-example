@@ -1,0 +1,29 @@
+{
+  "name": "kafka-example",
+  "version": "1.0.0",
+  "description": "Experiment with Apache Kafka.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akib22/kafka-example.git"
+  },
+  "keywords": [
+    "kafka",
+    "apache-kafka",
+    "node-kafka"
+  ],
+  "author": "Akibur Rahman (Akib)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akib22/kafka-example/issues"
+  },
+  "homepage": "https://github.com/akib22/kafka-example#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  }
+}
